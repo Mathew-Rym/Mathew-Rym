@@ -1,4 +1,7 @@
 ## Hi there 👋
+![Mathew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathew-Rym&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew-Rym&layout=compact&theme=github_dark)
 
 <!--
 **Mathew-Rym/Mathew-Rym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
