@@ -88,13 +88,6 @@ I'm always open to collaboration and tech conversations!
 🌐 LinkedIn: (https://www.linkedin.com/in/mathewrym/)  
 🌍 Portfolio:
 
----
-
-## 📊 GitHub Stats
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew-Rym&layout=compact&theme=github_dark)
 
 ---
 
