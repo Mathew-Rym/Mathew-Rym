@@ -4,8 +4,11 @@
 🎓 I'm a Founder, Full-Stack Developer, Biker, Photographer, and Data Analyst with a BSc in Computer Science.  
 🔧 I’m also a former Mechatronics Engineer with a strong foundation in business, system design, and software development.
 
-💡 I'm passionate about - bikes ![bike gif](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)
-                        - building clean, scalable applications and launching startups that solve real-world problems.
+💡 I'm passionate about building clean, scalable applications and launching startups that solve real-world problems.
+
+🏍️ Here's me on the move:
+<img src="https://media.giphy.com/media/fxJzKB7dG4iKc/giphy.gif" width="300" />
+
 
 ---
 
@@ -60,7 +63,7 @@ Here are a few things I've worked on:
 ## 🎯 Goals for 2025
 
 - ✅ Build and contribute to impactful open-source projects  - Done
-- ✅ Deepen backend and cloud infrastructure expertise  - ![Loading...](https://raw.githubusercontent.com/ABSphreak/readme-loading-snake/main/assets/loading.gif)
+- ✅ Deepen backend and cloud infrastructure expertise  - Loading...
 - ✅ Launch at least one startup or scalable SaaS product - Done
 
 ---
