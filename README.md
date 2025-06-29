@@ -92,7 +92,7 @@ I'm always open to collaboration and tech conversations!
 ---
 
 > ![Code](https://img.shields.io/badge/-Code%20Wisdom-4CAF50?style=flat-square&logo=markdown)  
-> *“Clean code doesn’t brag, it just runs.”*  by  Mathew Rym Njuguna
+> *“Clean code doesn’t brag, it just runs.”*  by  Robert C. Martin
 
 
 Thanks for stopping by! 👨‍💻✨
