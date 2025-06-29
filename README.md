@@ -94,6 +94,11 @@ Here are a few things I've worked on:
 - ✅ Launch at least one startup or scalable SaaS product - Done
 
 ---
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=Mathew-Rym&theme=github-dark" alt="Contribution Grid" />
+</p>
+
+---
 
 ## 📫 Let's Connect
 
