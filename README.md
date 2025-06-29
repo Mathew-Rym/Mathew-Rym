@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="[https://media3.giphy.com/media//5Gwqx1lYbDwAg/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBlcGMwZ2hwNWNlNjZwZWxkNXlsd2R0ZmR5azdsd280Z2N5a29leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTClqDrUPYUnekY0mT/giphy.gif)"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA4ZW81dThwdWtlcWhmZ3RhOHByd3RkMHdicjNqNmx5NGQ0cjE3byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OYbOUgrQR85orq8O1f/giphy.gif"  />
 </p>
 
 <h2 align="center">Riding Through Code at Full Throttle 🏍️🔥</h2>
