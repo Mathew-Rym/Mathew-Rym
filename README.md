@@ -15,6 +15,12 @@
 <h2 align="center">Riding Through Code at Full Throttle 🏍️🔥</h2>
 
 
+[![Email](https://img.shields.io/badge/Email-rymmathew@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rymmathew@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Rym-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewrym/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+
+
+
 ---
 
 ## 🚀 Tech Stack & Proficiencies
