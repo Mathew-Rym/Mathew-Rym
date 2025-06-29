@@ -1,10 +1,11 @@
 
 <h1 align="center">Jambo, I'm Mathew Rym Njuguna👋</h1>
 
-🎓 I'm a Founder, Full-Stack Developer, Biker, Photographer, and Data Analyst with a BSc in Computer Science.  
-🔧 I’m also a former Mechatronics Engineer with a strong foundation in business, system design, and software development.
+### _🎓 I'm a Founder, Full-Stack Developer, Biker, Photographer, and Data Analyst with a BSc in Computer Science._
+### _🔧 I’m also a former Mechatronics Engineer with a strong foundation in business, system design, and software development._
 
-💡 I'm passionate about building clean, scalable applications and launching startups that solve real-world problems.
+### _💡 I'm passionate about building clean, scalable applications and launching startups that solve real-world problems._
+
 
 
 
@@ -12,13 +13,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA4ZW81dThwdWtlcWhmZ3RhOHByd3RkMHdicjNqNmx5NGQ0cjE3byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OYbOUgrQR85orq8O1f/giphy.gif" width=600"  />
 </p>
 
-<h2 align="center">Riding Through Code at Full Throttle 🏍️🔥</h2>
+<h2 align="center"> _Riding Through Code at Full Throttle._ 🏍️🔥</h2>
 
-
+<p align="center">
 [![Email](https://img.shields.io/badge/Email-rymmathew@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rymmathew@gmail.com)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Rym-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewrym/)
+&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
-
+</p>
 
 
 ---
