@@ -98,7 +98,9 @@ I'm always open to collaboration and tech conversations!
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> ![Code](https://img.shields.io/badge/-Code%20Wisdom-4CAF50?style=flat-square&logo=markdown)  
+> *“Clean code doesn’t brag — it just runs.”*  — Mathew Rym Njuguna
+
 
 Thanks for stopping by! 👨‍💻✨
 
