@@ -6,19 +6,10 @@
 
 💡 I'm passionate about building clean, scalable applications and launching startups that solve real-world problems.
 
-<!-- GitHub Activity Metrics -->
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt="Metrics" width="100%" />
 
-[![Play Retro Game](https://img.shields.io/badge/Play-PacMan-yellow?logo=pix)](https://your-game-link.com)
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1xcjZ3amE0Mzdtb2o1ZjY3ejF0cnVpYzNmY2psbDI3Y293MDhwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Gwqx1lYbDwAg/giphy.gif" width="300" />
 </p>
 
 <h2 align="center">Riding Through Code at Full Throttle 🏍️🔥</h2>
