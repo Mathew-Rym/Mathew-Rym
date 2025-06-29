@@ -16,13 +16,19 @@
 <h2 align="center"> Riding Through Code at Full Throttle. 🏍️🔥</h2>
 
 
-[![Email](https://img.shields.io/badge/Email-rymmathew@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rymmathew@gmail.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Rym-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewrym/)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
-
-
+<p align="center">
+  <a href="mailto:rymmathew@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rymmathew@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mathewrym/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mathew%20Rym-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
