@@ -94,17 +94,13 @@ Here are a few things I've worked on:
 - ✅ Launch at least one startup or scalable SaaS product - Done
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathew-Rym&show_icons=true&theme=github_dark&count_private=true" alt="Mathew's GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew-Rym&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathew-Rym&theme=github-dark" alt="GitHub Streak" />
-</p>
+
 
 
 ---
