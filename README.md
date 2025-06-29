@@ -7,7 +7,7 @@
 💡 I'm passionate about building clean, scalable applications and launching startups that solve real-world problems.
 
 🏍️ Here's me on the move:
-<img src="https://media.giphy.com/media/fxJzKB7dG4iKc/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/7pHTNVRbJw9bi/giphy.gif" width="300" />
 
 
 ---
@@ -43,9 +43,16 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 
+
+
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white)
+
+
 
 ---
 
