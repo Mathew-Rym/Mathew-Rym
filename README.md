@@ -2,12 +2,14 @@
 <h3 align="center">Jambo, I'm Mathew Rym Njuguna👋</h3>
 
 🎯 Software Engineer | Founder | Data Analyst | Photographer | Biker
+
 🌍 Based in Nairobi,Kenya | Open to remote and global opportunities
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA4ZW81dThwdWtlcWhmZ3RhOHByd3RkMHdicjNqNmx5NGQ0cjE3byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OYbOUgrQR85orq8O1f/giphy.gif" width= "600"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA4ZW81dThwdWtlcWhmZ3RhOHByd3RkMHdicjNqNmx5NGQ0cjE3byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OYbOUgrQR85orq8O1f/giphy.gif" width="300" />
 </p>
+
 
 <h2 align="center"> Riding Through Code at Full Throttle. 🏍️🔥</h2>
 
