@@ -1,10 +1,9 @@
 
 <h1 align="center">Jambo, I'm Mathew Rym Njuguna👋</h1>
 
-### 🎓 I'm a Founder, Full-Stack Developer, Biker, Photographer, and Data Analyst with a BSc in Computer Science.
-### 🔧 I’m also a former Mechatronics Engineer with a strong foundation in business, system design, and software development.
-
-### 💡 I'm passionate about building clean, scalable applications and launching startups that solve real-world problems.
+## 🎓 I'm a Founder, Full-Stack Developer, Biker, Photographer, and Data Analyst with a BSc in Computer Science.
+## 🔧 I’m also a former Mechatronics Engineer with a strong foundation in business, system design, and software development.
+## 💡 I'm passionate about building clean, scalable applications and launching startups that solve real-world problems.
 
 
 
