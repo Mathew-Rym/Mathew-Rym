@@ -1,3 +1,4 @@
+![Hits](https://img.shields.io/badge/dynamic/json?color=success&label=visits&query=value&url=https://api.countapi.xyz/hit/Mathew-Rym.github.io/visits)
 
 <h3 align="center">Jambo, I'm Mathew Rym Njuguna👋</h3>
 
@@ -7,6 +8,8 @@
 <p align="center"> 
 🌍 Based in Nairobi,Kenya | Open to global and remote opportunities
 </p>
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mathew-Rym&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+
 
 
 <p align="center">
@@ -15,6 +18,8 @@
 
 
 <h2 align="center"> Riding Through Code at Full Throttle. 🏍️🔥</h2>
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mathew-Rym&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 
 <p align="center">
@@ -53,6 +58,8 @@
 ### 🛢️ Databases & Data Tools  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CB2C2F?logo=python&logoColor=white)  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
+![Profile views](https://profile-counter.glitch.me/Mathew-Rym/count.svg)
+
 ---
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -60,11 +67,6 @@
 ---
 ### 🧰 Tools & Utilities  
 ![Formik](https://img.shields.io/badge/-Formik-3D4E5E?logo=formik&logoColor=white)  ![Yup](https://img.shields.io/badge/-Yup-0C7CD5?logo=dependabot&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)  ![React Context](https://img.shields.io/badge/-React_Context-61DAFB?logo=react&logoColor=black)  ![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=openapiinitiative&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)  ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-sheets&logoColor=white)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew-Rym&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
 
 ---
 ##  Let's Connect
@@ -79,6 +81,7 @@ I'm always open to collaboration and tech conversations!
 ---
 > ![Code](https://img.shields.io/badge/-Code%20Wisdom-4CAF50?style=flat-square&logo=markdown)  
 > *“Clean code doesn’t brag, it just runs.”*  by  Robert C. Martin
+![Snake animation](https://github.com/Mathew-Rym/Mathew-Rym/blob/output/github-contribution-grid-snake.svg)
 
 
 Thanks for stopping by! ✨
