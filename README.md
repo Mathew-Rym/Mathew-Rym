@@ -11,9 +11,6 @@
 🌍 Based in Nairobi,Kenya | Open to global and remote opportunities
 </p>
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mathew-Rym&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA4ZW81dThwdWtlcWhmZ3RhOHByd3RkMHdicjNqNmx5NGQ0cjE3byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OYbOUgrQR85orq8O1f/giphy.gif" width="200" />
