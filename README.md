@@ -1,5 +1,6 @@
-                                                                                                                                                                
-![Profile views](https://profile-counter.glitch.me/Mathew-Rym/count.svg) 
+<p align="right">
+  <img src="https://profile-counter.glitch.me/Mathew-Rym/count.svg" />
+</p>
 <h3 align="center">Jambo, I'm Mathew Rym Njuguna👋</h3>
 
 
