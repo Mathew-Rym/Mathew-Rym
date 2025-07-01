@@ -36,10 +36,10 @@
 ## 🚀 Tech Stack & Proficiencies
 
 ### 🧠 Programming Languages  
-[Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-[Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-[C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 
 ---
 
@@ -97,8 +97,8 @@
 ---
 
 ### 🧰 Tools & Utilities  
-![Formik](https://img.shields.io/badge/-Formik-3D4E5E?logo=formik&logoColor=white)  
-![Yup](https://img.shields.io/badge/-Yup-0C7CD5?logo=dependabot&logoColor=white)  
+![Formik](https://img.shields.io/badge/-Formik-3D4E5E?logo=formik&logoColor=white)  ![Yup](https://img.shields.io/badge/-Yup-0C7CD5?logo=dependabot&logoColor=white) 
+ 
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)  
 ![React Context](https://img.shields.io/badge/-React_Context-61DAFB?logo=react&logoColor=black)  
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=openapiinitiative&logoColor=white)  
