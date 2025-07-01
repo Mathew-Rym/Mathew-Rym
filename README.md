@@ -1,9 +1,11 @@
 
 <h3 align="center">Jambo, I'm Mathew Rym Njuguna👋</h3>
 
-🎯 Software Engineer | Founder | Data Analyst | Photographer | Biker
+<p align="center"> 
+🎯 Software Developer | Founder | Data Analyst | Photographer | Biker
 
 🌍 Based in Nairobi,Kenya | Open to remote and global opportunities
+</p>
 
 
 <p align="center">
